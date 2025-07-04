@@ -87,21 +87,6 @@ private static final String PASSWORD = "your_mysql_password";
 
 ---
 
-## Usage
-
-1. **Compile the project:**
-   ```
-   javac -cp lib/mysql-connector-java-<version>.jar src/com/employee/**/*.java
-   ```
-2. **Run the application:**
-   ```
-   java -cp lib/mysql-connector-java-<version>.jar:src com.employee.Main
-   ```
-
-3. **Follow the on-screen menu:**
-   - Add, view, update, or delete employees by entering the corresponding menu number.
-
----
 
 ## Code Overview
 
